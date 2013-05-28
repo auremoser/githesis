@@ -3,7 +3,7 @@ GiThesis
 
 This repo hosts my Master's Thesis in Information Science and Digital Art History.
    
-Archive Ether: Metadata Mapping and the Preservation of New Media Art. 
+*Archive Ether: Metadata Mapping and the Preservation of New Media Art.*
 
 General Idea
 ---------------------
@@ -78,5 +78,7 @@ If you have something simple to edit and don't want to go through the process, f
 
 Thanks
 ---------------------
-Thanks for reading. Feel free to skim/peruse/.gitignore this project. It's an experiment in how I anticipate all documents might be drafted in the future, "versioned writing" as per my friend JSVines's ideas on writing 2.0++. Don't hate, just make it better. I'll take back with niceties. *love and rockets*
+Thanks for reading. Feel free to skim/peruse/.gitignore this project. It's an experiment in how I anticipate all documents might be drafted in the future, "versioned writing" as per my friend JSVines's ideas on writing 2.0++. Don't hate, just make it better. I'll tag back with niceties. 
+
+*love and rockets*
 
