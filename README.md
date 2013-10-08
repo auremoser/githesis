@@ -78,7 +78,7 @@ If you have something simple to edit and don't want to go through the process, f
 
 Thanks
 ---------------------
-Thanks for reading. Feel free to skim/peruse/.gitignore this project. It's an experiment in how I anticipate all documents might be drafted in the future, "versioned writing" as per my friend JSVines's ideas on writing 2.0++. Don't hate, just make it better. I'll tag back with niceties. 
+Thanks for reading. Feel free to skim/peruse/.gitignore this project. It's an experiment in how I anticipate all documents might be drafted in the future, "versioned writing" as per my friend JSVines's ideas on writing 2.0++. Don't hate, just make it better. I'll tag back with niceties. You can also check it ou on [Figshare](http://figshare.com/articles/Archive_Ether_Metadata_Mapping_and_the_Preservation_of_New_Media_Art/816922).
 
 *love and rockets*
 
