@@ -82,3 +82,7 @@ Thanks for reading. Feel free to skim/peruse/.gitignore this project. It's an ex
 
 *love and rockets*
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/auremoser/githesis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
